@@ -1,0 +1,15 @@
+
+package javaapplication39;
+
+
+public class JavaApplication39 {
+
+    
+    public static void main(String[] args) {
+    
+        double pi = Math.PI;
+        System.out.format("pi=%.2f.\n",pi);
+        System.out.format("pi = %.4f.\n",pi);
+    }
+    
+}
